@@ -15,7 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-###  Random Meme
+<!-- ###  Random Meme
 <img src="https://cdn.discordapp.com/attachments/800963153067769858/1115197520855961690/photo_2023-06-05_12-03-11.jpg" width="512px"/>
-
+ -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
