@@ -12,9 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shadmehr-salehi&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmehr-salehi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  -->
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+ -->
 <!-- ###  Random Meme
 <img src="https://cdn.discordapp.com/attachments/800963153067769858/1115197520855961690/photo_2023-06-05_12-03-11.jpg" width="512px"/>
  -->
