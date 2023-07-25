@@ -1,21 +1,25 @@
-# 💫 About Me:
-🔭 I’m Currently Studying Computer Science<br>👯‍♂️ I Like Collaborating On A ML Project<br>🌱 I’m Currently Learning ML/Data Science<br>⚡ I Love Looking At The Sky
+<h1 align="center">Hi 👋, I'm Shadmehr</h1>
+<h3 align="center">A Junior Machine Learning Engineer From Iran</h3>
+- 📖 Currently Advancing My Skills in Tensorflow, Keras and Devops <br>
+- 📧 You Can Reach Me At : Shadmehr.salehi88@gmail.com <br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/YoungWizard__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/YoungWizard__" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shadmehr-salehi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shadmehr-salehi" height="30" width="40" /></a>
+<br>
+<br>
+<h3 align="left">Languages:</h3>
+<p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+ 
+<h3 align="left">ML and DL libraries:</h3>
+ <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://keras.io/" target="_blank"> <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="Keras" width=40 height=40 </a>  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>  </p>
 
-
-<!-- ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shadmehr-salehi/) 
- -->
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shadmehr-salehi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shadmehr-salehi&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmehr-salehi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- -->
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
- -->
-<!-- ###  Random Meme
-<img src="https://cdn.discordapp.com/attachments/800963153067769858/1115197520855961690/photo_2023-06-05_12-03-11.jpg" width="512px"/>
- -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Other:</h3>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<br>
+<br>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadmehr-salehi&" alt="shadmehr-salehi" /></p>
