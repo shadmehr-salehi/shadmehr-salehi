@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shadmehr</h1>
-<h3 align="center">Junior Machine Learning Engineer</h3>
-- 📖 Currently Advancing My Skills in Tensorflow, Keras and Devops <br>
+<h3 align="center">Artificial Intelligence Engineer</h3>
+<!-- - 📖 Currently Advancing My Skills in Tensorflow, Keras and Devops <br> -->
 - 📧 You Can Reach Me At : Shadmehr.salehi88@gmail.com <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
